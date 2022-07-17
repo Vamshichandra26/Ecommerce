@@ -2,7 +2,7 @@
 Supply Chain Mgmt, Admin, Delivery, Payment, Authentication
 
 Components Necessary
-1. Uer Authentication, Autorization
+1. Uer Authentication, Authorization
 2. Google API for Signup
 3. User Service, Cart Service, Wishlist Service
 4. Machine Learning for Product Recommendation
